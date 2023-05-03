@@ -1,17 +1,14 @@
-
 <div id="header" align="center">
   <h1>
     Hello, and Welcome!
   </h1>
   <img src="https://cdnb.artstation.com/p/assets/images/images/061/410/739/large/niels-bugel-oop-banner2-dav-1-2-1-shopped.jpg?1680722463" width="100%" height="300px"/>
-</div>
-
----
-<div align="center">
+  <hr>
   <h2>
     "Who is Antonio King Hunt?"
   </h2>
 </div>
+<div>
   <img src="https://cdn.dribbble.com/users/1667691/screenshots/5747547/media/077472f033034a6f55eaaa9df1403ce3.gif" align="left" />
   <div style="display:block;text-align:center"><a href="<terminal profile tba>">
   
@@ -25,19 +22,20 @@
   Student: Turing School of Software and Design
   ```
 </div>
-
-<h3> 
-  An incredibly curious backend software developer with a passion for:
-</h3>
-<p> 
-  🖥 &emsp; The power of Technology to change the world for the better
-</p>
-<p> 
-  🎼 &emsp; Music of all kinds, with a favoritism for Folk & Progressive Metal/Rock
-</p>
-<p> 
-  🌏 &emsp; Humanity's march towards complete de-carbonization 
-</p>
+<article>
+  <h3> 
+    An incredibly curious backend software developer with a passion for:
+  </h3>
+  <p> 
+    🖥 &emsp; The power of Technology to change the world for the better
+  </p>
+  <p> 
+    🎼 &emsp; Music of all kinds, with a favoritism for Folk & Progressive Metal/Rock
+  </p>
+  <p> 
+    🌏 &emsp; Humanity's march towards complete de-carbonization 
+  </p>
+</article>
 
 <div id="body" align="center">
   <h2> Stack n' Stats</h2>
@@ -67,23 +65,27 @@
 <div align="center">
 <h2>A Little about Me:</h2>
   <p>
-    <b><i>What Im Currently Learning</i></b><br>
+    <h3>
+      <b><i>What Im Currently Learning</i></b><br>
+    </h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&style=plastic">
   </p>
   <h3>
     <b><i>What Im Working On</i></b><br>
   <h3>
-    <p>
+  <ul>
+    <li>
       Exploring outside of my comfortzone with <img src="https://img.shields.io/badge/macOS-000000?style=plasti&logoColor=white&c"> and working with <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=plastic">
-    </p>
-  </p>
+    <li>
+  </ul>
   <p>
     <b><i>Tech Interests</i></b><br>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&style=plastic">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic">
   </p>
   <p>
+    <h2>Thanks for stopping by!</h2>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faj-bailey1212%2Fhit-counter">
     <img src="http://views.whatilearened.today/views/github/4D-Coder/views.svg">
   </p>
