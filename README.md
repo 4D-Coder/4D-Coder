@@ -13,7 +13,7 @@
   </h2>
 </div>
   <img src="https://cdn.dribbble.com/users/1667691/screenshots/5747547/media/077472f033034a6f55eaaa9df1403ce3.gif" align="left" />
-  <div style="display:block;text-align:center"><a href="https://github.com/Eccentrici/">
+  <div style="display:block;text-align:center"><a href="<terminal profile tba>">
   
   
   ```css
