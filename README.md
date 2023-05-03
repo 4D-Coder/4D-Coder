@@ -20,7 +20,7 @@
   4D-Coder@GitHub
   -----------------
   Name: Antonio
-  Favorite Languages: ["Python", "Java"]
+  Favorite Languages: ["Ruby", "Python"]
   OS: Ubuntu
   Student: Turing School of Software and Design
   ```
