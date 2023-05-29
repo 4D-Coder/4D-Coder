@@ -42,27 +42,42 @@
 
 <div id="body" align="center">
   <h2> Stack n' Stats</h2>
-  <img width="400" height="265" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4D-Coder&hide_progress=false&theme=radical"/>
-  <img width="400" height="265" src="https://github-readme-stats.vercel.app/api?username=4D-Coder&show_icons=true&theme=radical"/>
+  <img width="400" height="265" src="https://github-readme-stats.vercel.app/api?username=4D-Coder&size_weight=0.5&count_weight=0&hide_rank=true&show_icons=true&theme=radical"/>
   
   <h2> Experience </h2>
+  <!--     icons found @ https://simpleicons.org/ -->
+  <h3> Languages </h3>
   <p>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=whitec">
+    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitec"><br>
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  </p>
+  
+  <h3> Frameworks and Deployment </h3>
+  <p>
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </p>
+  
+  <h3> Tools </h3>
+  <p>
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </p>
-
+  
   <div id="practice">
+    <h3> Practice </h3>
     <a href="https://www.codewars.com/users/4D-Coder"><img src="https://www.codewars.com/users/4D-Coder/badges/large"></a>
   </div>
 
