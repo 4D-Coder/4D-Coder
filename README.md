@@ -2,8 +2,6 @@
   <h1>
     Hello, and Welcome!
   </h1>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/061/410/739/large/niels-bugel-oop-banner2-dav-1-2-1-shopped.jpg?1680722463" width="100%" height="300px"/>
-  <hr>
   <h2>
     "Who is Antonio King Hunt?"
   </h2>
