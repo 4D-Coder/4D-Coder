@@ -99,7 +99,8 @@
   <h3>
     <b><i>What I'm Working On</i></b>
   <h3>
-    <a href="https://github.com/4D-Coder/WanderWattz-EMS"><img src="https://github.com/4D-Coder/WanderWattz-EMS/assets/89714398/e3fe9556-4118-4caf-9ab0-bd2fc1c939eb" height="100px" width="250px"></a>
+    <a href="https://github.com/4D-Coder/WanderWattz-EMS" target="
+_blank"><img src="https://github.com/4D-Coder/WanderWattz-EMS/assets/89714398/e3fe9556-4118-4caf-9ab0-bd2fc1c939eb" height="100px" width="250px"></a>
   <br>
   <p>
       Exploring outside of my comfortzone with <img src="https://img.shields.io/badge/macOS-000000?style=plasti&logoColor=white&c"> and working with <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&style=plastic">
