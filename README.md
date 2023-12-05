@@ -99,7 +99,7 @@
   <h3>
     <b><i>What I'm Working On</i></b>
   <h3>
-    <a href="https://github.com/4D-Coder/WanderWattz-EMS" target="
+    <a href="https://github.com/4D-Coder/WanderWattzEMS" target="
 _blank"><img src="https://github.com/4D-Coder/WanderWattz-EMS/assets/89714398/e3fe9556-4118-4caf-9ab0-bd2fc1c939eb" height="100px" width="250px"></a>
   <br>
   <p>
